@@ -71,7 +71,7 @@
 ## :star2: About the Project
 
 <div align="center">
-  <img src="readme_assets/reactfolio-mockup.png" height="auto" width="65%"/>
+  <img src="readme_assets/reactfolio-mockup.png" height="auto" width="75%"/>
 </div>
 
 <br />
